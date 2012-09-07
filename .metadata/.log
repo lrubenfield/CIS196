@@ -1,0 +1,12 @@
+!SESSION 2012-09-07 16:48:10.033 -----------------------------------------------
+eclipse.buildId=3.2.2.201208201020
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui.workbench 4 0 2012-09-07 16:58:29.287
+!MESSAGE (Errno::EINVAL) =::
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
