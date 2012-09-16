@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Stop: MyString
+  1_url: MyString
+  string: MyString
+  Stop: MyString
+  2_url: MyString
+  : MyString
+  string: MyString
+  Stop: MyString
+  3_url: MyString
+  : MyString
+  string: MyString
+
+two:
+  Stop: MyString
+  1_url: MyString
+  string: MyString
+  Stop: MyString
+  2_url: MyString
+  : MyString
+  string: MyString
+  Stop: MyString
+  3_url: MyString
+  : MyString
+  string: MyString

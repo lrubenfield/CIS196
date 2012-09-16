@@ -1,4 +1,8 @@
 Project1::Application.routes.draw do
+  resources :vacations
+
+  resources :trips
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

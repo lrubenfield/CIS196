@@ -1,0 +1,61 @@
+<%= form_for(@trip) do |f| %>
+  <% if @trip.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@trip.errors.count, "error") %> prohibited this trip from being saved:</h2>
+
+      <ul>
+      <% @trip.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :Stop %><br />
+    <%= f.text_field :Stop %>
+  </div>
+  <div class="field">
+    <%= f.label :1_url %><br />
+    <%= f.text_field :1_url %>
+  </div>
+  <div class="field">
+    <%= f.label :string %><br />
+    <%= f.text_field :string %>
+  </div>
+  <div class="field">
+    <%= f.label :Stop %><br />
+    <%= f.text_field :Stop %>
+  </div>
+  <div class="field">
+    <%= f.label :2_url %><br />
+    <%= f.text_field :2_url %>
+  </div>
+  <div class="field">
+    <%= f.label : %><br />
+    <%= f.text_field : %>
+  </div>
+  <div class="field">
+    <%= f.label :string %><br />
+    <%= f.text_field :string %>
+  </div>
+  <div class="field">
+    <%= f.label :Stop %><br />
+    <%= f.text_field :Stop %>
+  </div>
+  <div class="field">
+    <%= f.label :3_url %><br />
+    <%= f.text_field :3_url %>
+  </div>
+  <div class="field">
+    <%= f.label : %><br />
+    <%= f.text_field : %>
+  </div>
+  <div class="field">
+    <%= f.label :string %><br />
+    <%= f.text_field :string %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  stop1: MyString
+  stop2: MyString
+  stop3: MyString
+  cost: 9.99
+
+two:
+  stop1: MyString
+  stop2: MyString
+  stop3: MyString
+  cost: 9.99
