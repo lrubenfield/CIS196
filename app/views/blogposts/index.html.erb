@@ -1,0 +1,29 @@
+<h1>Listing blogposts</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Month</th>
+    <th>Year</th>
+    <th>Post</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @blogposts.each do |blogpost| %>
+  <tr>
+    <td><%= blogpost.Name %></td>
+    <td><%= blogpost.Month %></td>
+    <td><%= blogpost.Year %></td>
+    <td><%= blogpost.Post %></td>
+    <td><%= link_to 'Show', blogpost %></td>
+    <td><%= link_to 'Edit', edit_blogpost_path(blogpost) %></td>
+    <td><%= link_to 'Destroy', blogpost, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Blogpost', new_blogpost_path %>

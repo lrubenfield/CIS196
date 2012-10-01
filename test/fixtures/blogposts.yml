@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Name: MyString
+  Month: MyString
+  Year: 1
+  Post: MyString
+
+two:
+  Name: MyString
+  Month: MyString
+  Year: 1
+  Post: MyString
