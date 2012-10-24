@@ -1,0 +1,21 @@
+<h1>Listing usertests</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @usertests.each do |usertest| %>
+  <tr>
+    <td><%= link_to 'Show', usertest %></td>
+    <td><%= link_to 'Edit', edit_usertest_path(usertest) %></td>
+    <td><%= link_to 'Destroy', usertest, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Usertest', new_usertest_path %>

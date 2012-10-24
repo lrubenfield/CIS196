@@ -37,6 +37,11 @@ module Project1
     config.encoding = "utf-8"
 
     # Configure sensitive parameters which will be filtered from the log file.
+    config.generators do |g|
+      g.controller_specs false
+      g.view_specs false
+      g.helper_specs false
+     end
     config.filter_parameters += [:password]
 
     # Use SQL instead of Active Record's schema dumper when creating the database.
