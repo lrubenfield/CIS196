@@ -30,48 +30,13 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.aptana.editor.ruby" name="user.rb" partName="user.rb" title="user.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\app\models\user.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/user.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="165" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="Gemfile" partName="Gemfile" title="Gemfile" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\Gemfile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/Gemfile"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="214" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="usertests_spec.rb" partName="usertests_spec.rb" title="usertests_spec.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\spec\requests\usertests_spec.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/spec/requests/usertests_spec.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="62" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="routes.rb" partName="routes.rb" title="routes.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\config\routes.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/routes.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1156" selectionTopPixel="647"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="environment.rb" partName="environment.rb" title="environment.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\config\environment.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/environment.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="152" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.erb.html" name="application.html.erb" partName="application.html.erb" title="application.html.erb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\app\views\layouts\application.html.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/views/layouts/application.html.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="255" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="application.rb" partName="application.rb" title="application.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\config\application.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/application.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1159" selectionTopPixel="255"/>
-</editor>
-<editor activePart="true" focus="true" id="com.aptana.editor.ruby" name="production.rb" partName="production.rb" title="production.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\config\environments\production.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/environments/production.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1679" selectionTopPixel="572"/>
+<editor activePart="true" focus="true" id="com.aptana.editor.ruby" name="groups_controller.rb" partName="groups_controller.rb" title="groups_controller.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\projectlr1\app\controllers\groups_controller.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/controllers/groups_controller.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="134" selectionTopPixel="39"/>
 </editor>
 </editors>
 <views>
@@ -102,7 +67,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="com.aptana.editor.ruby" activePerspective="com.aptana.ui.WebPerspective">
+<perspectives activePart="org.eclipse.ui.views.ContentOutline" activePerspective="com.aptana.ui.WebPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
 <alwaysOnActionSet id="com.aptana.browser.actionSet"/>
@@ -203,10 +168,8 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/user.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/group.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/blogpost.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/views/users/_form.html.erb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/post.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/Gemfile"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/application.rb"/>
@@ -225,156 +188,160 @@
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/environment.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/environments/production.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/application.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/controllers/users_controller.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/models/user.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/controllers/groups_controller.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/environment.rb"/>
 </editors>
-<item historyLabel="blogpost.rb" index="2">
-<position info="not_deleted" x="74" y="0"/>
-</item>
-<item historyLabel="user.rb" index="0">
-<position info="not_deleted" x="128" y="0"/>
-</item>
-<item historyLabel="group.rb" index="1">
-<position info="not_deleted" x="78" y="0"/>
-</item>
-<item historyLabel="_form.html.erb" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="user.rb" index="0">
-<position info="not_deleted" x="128" y="0"/>
-</item>
-<item historyLabel="group.rb" index="1">
-<position info="not_deleted" x="81" y="0"/>
-</item>
-<item historyLabel="blogpost.rb" index="2">
+<item historyLabel="blogpost.rb" index="1">
 <position info="not_deleted" x="38" y="35"/>
 </item>
-<item historyLabel="group.rb" index="1">
+<item historyLabel="group.rb" index="0">
 <position info="not_deleted" x="81" y="0"/>
 </item>
-<item historyLabel="post.rb" index="4">
+<item historyLabel="post.rb" index="2">
 <position info="not_deleted" x="67" y="0"/>
 </item>
-<item historyLabel="Gemfile" index="5">
+<item historyLabel="Gemfile" index="3">
 <position info="not_deleted" x="265" y="0"/>
 </item>
-<item historyLabel="application.rb" index="6">
+<item historyLabel="application.rb" index="4">
 <position/>
 </item>
-<item historyLabel="Gemfile" index="5">
+<item historyLabel="Gemfile" index="3">
 <position info="not_deleted" x="265" y="0"/>
 </item>
-<item historyLabel="application.rb" index="6">
+<item historyLabel="application.rb" index="4">
 <position info="not_deleted" x="1928" y="0"/>
 </item>
-<item historyLabel="Gemfile" index="5">
+<item historyLabel="Gemfile" index="3">
 <position info="not_deleted" x="265" y="0"/>
 </item>
-<item historyLabel="post_test.rb" index="7">
+<item historyLabel="post_test.rb" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="user.rb" index="8">
+<item historyLabel="user.rb" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="post.rb" index="9">
+<item historyLabel="post.rb" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="user.rb" index="8">
+<item historyLabel="user.rb" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="post_test.rb" index="7">
+<item historyLabel="post_test.rb" index="5">
 <position info="not_deleted" x="72" y="0"/>
 </item>
-<item historyLabel="spec_helper.rb" index="10">
+<item historyLabel="spec_helper.rb" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="spec_helper.rb" index="10">
+<item historyLabel="spec_helper.rb" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="user_spec.rb" index="11">
+<item historyLabel="user_spec.rb" index="9">
 <position info="not_deleted" x="140" y="0"/>
 </item>
-<item historyLabel="user.rb" index="12">
+<item historyLabel="user.rb" index="10">
 <position info="not_deleted" x="108" y="0"/>
 </item>
-<item historyLabel="user_spec.rb" index="11">
+<item historyLabel="user_spec.rb" index="9">
 <position info="not_deleted" x="141" y="0"/>
 </item>
-<item historyLabel="Gemfile" index="13">
+<item historyLabel="Gemfile" index="11">
 <position info="not_deleted" x="29" y="0"/>
 </item>
-<item historyLabel="user.rb" index="12">
+<item historyLabel="user.rb" index="10">
 <position info="not_deleted" x="165" y="0"/>
 </item>
-<item historyLabel="user_spec.rb" index="11">
+<item historyLabel="user_spec.rb" index="9">
 <position info="not_deleted" x="140" y="0"/>
 </item>
-<item historyLabel="Gemfile" index="13">
+<item historyLabel="Gemfile" index="11">
 <position info="not_deleted" x="436" y="0"/>
 </item>
-<item historyLabel="spec_helper.rb" index="10">
+<item historyLabel="spec_helper.rb" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Gemfile" index="11">
+<position info="not_deleted" x="436" y="0"/>
+</item>
+<item historyLabel="usertests_spec.rb" index="12">
 <position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="Gemfile" index="13">
-<position info="not_deleted" x="436" y="0"/>
-</item>
-<item historyLabel="usertests_spec.rb" index="14">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Gemfile" index="15">
 <position info="not_deleted" x="214" y="0"/>
 </item>
-<item historyLabel="routes.rb" index="16">
+<item historyLabel="routes.rb" index="14">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="routes.rb" index="16">
+<item historyLabel="routes.rb" index="14">
 <position info="not_deleted" x="1156" y="0"/>
 </item>
-<item historyLabel="application.html.erb" index="17">
+<item historyLabel="application.html.erb" index="15">
 <position info="not_deleted" x="404" y="0"/>
 </item>
-<item historyLabel="application.rb" index="18">
+<item historyLabel="application.rb" index="16">
 <position info="not_deleted" x="2780" y="0"/>
 </item>
-<item historyLabel="application.html.erb" index="17">
+<item historyLabel="application.html.erb" index="15">
 <position info="not_deleted" x="404" y="0"/>
 </item>
-<item historyLabel="application.rb" index="18">
+<item historyLabel="application.rb" index="16">
 <position info="not_deleted" x="1636" y="0"/>
 </item>
-<item historyLabel="application.html.erb" index="17">
+<item historyLabel="application.html.erb" index="15">
 <position info="not_deleted" x="404" y="0"/>
 </item>
-<item historyLabel="environment.rb" index="19">
+<item historyLabel="environment.rb" index="17">
 <position info="not_deleted" x="234" y="0"/>
 </item>
-<item historyLabel="environment.rb" index="19">
+<item historyLabel="environment.rb" index="17">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="application.html.erb" index="17">
+<item historyLabel="application.html.erb" index="15">
 <position info="not_deleted" x="382" y="0"/>
 </item>
-<item historyLabel="application.rb" index="18">
+<item historyLabel="application.rb" index="16">
 <position info="not_deleted" x="1705" y="1"/>
 </item>
-<item historyLabel="application.html.erb" index="17">
+<item historyLabel="application.html.erb" index="15">
 <position info="not_deleted" x="255" y="0"/>
 </item>
-<item historyLabel="environment.rb" index="19">
+<item historyLabel="environment.rb" index="17">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="production.rb" index="20">
+<item historyLabel="production.rb" index="18">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="application.rb" index="21">
+<item historyLabel="application.rb" index="19">
 <position info="not_deleted" x="845" y="0"/>
 </item>
-<item historyLabel="production.rb" index="20">
+<item historyLabel="production.rb" index="18">
 <position info="not_deleted" x="1899" y="0"/>
 </item>
-<item historyLabel="application.rb" index="21">
+<item historyLabel="application.rb" index="19">
 <position info="not_deleted" x="1159" y="0"/>
 </item>
-<item active="true" historyLabel="production.rb" index="20">
-<position info="not_deleted" x="1899" y="0"/>
+<item historyLabel="production.rb" index="18">
+<position info="not_deleted" x="2180" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="20">
+<position info="not_deleted" x="92" y="0"/>
+</item>
+<item historyLabel="user.rb" index="21">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="20">
+<position info="not_deleted" x="522" y="0"/>
+</item>
+<item historyLabel="groups_controller.rb" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="environment.rb" index="23">
+<position info="not_deleted" x="152" y="0"/>
+</item>
+<item active="true" historyLabel="groups_controller.rb" index="22">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -382,6 +349,10 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1967348"/>
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -389,10 +360,20 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="groups_controller.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\projectlr1\app\controllers\groups_controller.rb">
+<persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/controllers/groups_controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="user.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\projectlr1\app\models\user.rb">
+<persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/models/user.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="users_controller.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\projectlr1\app\controllers\users_controller.rb">
+<persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/projectlr1/app/controllers/users_controller.rb"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="production.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\config\environments\production.rb">
 <persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/config/environments/production.rb"/>
 </file>
@@ -428,15 +409,6 @@
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="post_test.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\test\unit\post_test.rb">
 <persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/test/unit/post_test.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="_form.html.erb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\app\views\users\_form.html.erb">
-<persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/views/users/_form.html.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="blogpost.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\app\models\blogpost.rb">
-<persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/blogpost.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="group.rb" tooltip="C:\Users\Lizzie Rubenfield\Documents\Senior Year\CIS196\project1\app\models\group.rb">
-<persistable uri="file:/C:/Users/Lizzie%20Rubenfield/Documents/Senior%20Year/CIS196/project1/app/models/group.rb"/>
 </file>
 </mruList>
 </workbench>
