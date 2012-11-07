@@ -1,6 +1,4 @@
 Project1::Application.routes.draw do
-  devise_for :groups
-
   devise_for :users
 
   resources :usertests
