@@ -94,3 +94,12 @@ java.lang.IllegalThreadStateException: process has not exited
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SESSION 2012-11-07 12:47:18.593 -----------------------------------------------
+eclipse.buildId=3.2.2.201208201020
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.jobs 2 2 2012-11-07 13:12:13.029
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.StudioAnalytics$1
